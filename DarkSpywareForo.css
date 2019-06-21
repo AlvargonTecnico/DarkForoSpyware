@@ -1,4 +1,4 @@
-@-moz-document domain("forospyware.com") {
+@-moz-document domain("forospyware.com") { /*Si no les funciona, borren esta linea y la llave del final*/
 html {
     color: #fff;
     background-color: #000;
@@ -223,4 +223,4 @@ div.poll li[data-poll-option-id] {
 div.menu-links-header .fa, div.menu-links-header a {
     color: #ffffff;
 }
-}
+} /*Borrame si quitasd la primera linea ;)*/
