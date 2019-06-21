@@ -129,7 +129,7 @@ input[type="text"], input[type="password"], input[type="datetime"], input[type="
     background: #005077;
 }
 .d-header-icons .icon:hover, .d-header-icons .icon:focus {
-    background-color: #ae0000;
+    background-color: #800d0d;
     border-radius: 20px;
 }
 blockquote {
@@ -223,8 +223,18 @@ div.poll li[data-poll-option-id] {
 div.menu-links-header .fa, div.menu-links-header a {
     color: #ffffff;
 }
-/**/
-.btn-flat {
-    background: #929292;
+/*Botones Editar Borrado*/
+button#ember120, button#ember122 {
+   background: #929292;
+}
+/*Botones RRSS y Otros (Parte superior derecha)*/
+svg.fa.d-icon.d-icon-facebook.svg-icon.svg-node {
+    color: #3462ce;
+}
+svg.fa.d-icon.d-icon-twitter.svg-icon.svg-node {
+    color: lightblue;
+}
+svg.fa.d-icon.d-icon-search.svg-icon.svg-node, svg.fa.d-icon.d-icon-bars.svg-icon.svg-node {
+    color: #f9f9f9;
 }
 } /*Borrame si quitasd la primera linea ;)*/
