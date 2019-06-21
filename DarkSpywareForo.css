@@ -18,9 +18,12 @@ html {
     border: 1px solid #bebebe;
     }
     
- ul#navigation-bar .ember-view {
+ /*ul#navigation-bar .ember-view {
  background-color: lightgrey;
- }
+ }*/
+.nav-pills>li>a {
+    color: #ff0000;
+}
  
  .topic-list-main-link a.title, .topic-list .main-link a.title, .latest-topic-list-item .main-link a.title {
     color: #f1c155;
