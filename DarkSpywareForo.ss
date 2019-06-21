@@ -1,0 +1,226 @@
+@-moz-document domain("forospyware.com") {
+html {
+    color: #fff;
+    background-color: #000;
+}
+
+.d-header {
+    background-color: #000;
+}
+
+.category-list tbody .category h3 a[href] {
+    color: #fefefe;
+}
+
+.list-controls .combo-box .combo-box-header {
+    background: #4b4b4b;
+    color: #fff;
+    border: 1px solid #bebebe;
+    }
+    
+ ul#navigation-bar .ember-view {
+ background-color: lightgrey;
+ }
+ 
+ .topic-list-main-link a.title, .topic-list .main-link a.title, .latest-topic-list-item .main-link a.title {
+    color: #f1c155;
+}
+
+.badge-wrapper.bullet span.badge-category {
+    color: #ffffff;
+    }
+#topic-title h1 a {
+    color: #7e9eff;
+}
+.topic-map {
+    background: #1b1b1b;
+    }
+.topic-map .buttons .btn {
+    background: #1b1b1b;
+}    
+.extra-info-wrapper .topic-link {
+    color: #7e9eff;
+    }
+.names span a {
+    color: #f23b3b;
+}   
+.menu-panel {
+    box-shadow: 0 12px 12px rgba(255, 255, 255, 0.15);
+    background-color: #101010;
+}    
+.drop-down-mode .d-header-icons .active .icon {
+    background-color: #303030;
+    }
+.user-menu .notifications .read {
+    background-color: #000;
+}    
+.user-menu .notifications .show-all .btn {
+    background: #262626;
+    }
+.user-menu .notifications li span {
+    color: #fff;
+}
+.user-main .about.collapsed-info .details {
+    background: rgba(0, 0, 0, 0.8);
+}
+.user-secondary-navigation .nav-stacked a.active {
+    color: #fff;
+    }
+    .nav-pills>li>a {
+    color: #979797;
+    }
+    .user-stream .item, .user-stream .user-stream-item {
+    background-color: #000;
+    }
+    .large-notification a span {
+    color: #fff;
+}
+.user-content {
+    background-color: #000;
+    }
+ .user-main .about .details {
+    background: rgb(0, 0, 0);
+}
+.user-main .about .secondary dd {
+    color: #898989;    
+    }
+    .user-main .about .secondary dt {
+    color: white;
+    }    
+    .badge-card {
+    background-color: #212121;
+    }    
+    .badge-card .badge-contents .badge-link {
+    color: #ed0000;
+}
+.badge-card .badge-contents .badge-info {
+    color: #fff;
+}
+.user-stream .excerpt {
+    color: #d5d5d5;
+}
+#reply-control {
+    background-color: #101010;
+}
+.d-editor-textarea-wrapper textarea {
+    background: black;
+}
+.composer-popup {
+   background: #40535a;
+   /*text-shadow: 0 0 1px black;*/
+}
+input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"] {
+    color: #fff;
+    background-color: #000;
+}
+.select-kit.combo-box .select-kit-header {
+    background: #000;
+}
+.d-editor-textarea-wrapper {
+    background-color: #000;
+}
+.select-kit .select-kit-body {
+    background: #000;
+}
+.select-kit .select-kit-collection {
+    background: #000;
+}
+.select-kit .select-kit-row.is-highlighted {
+    background: #005077;
+}
+.d-header-icons .icon:hover, .d-header-icons .icon:focus {
+    background-color: #ae0000;
+    border-radius: 20px;
+}
+blockquote {
+    background-color: #151515;
+}
+.hljs {
+    display: block;
+    padding: 0.5em;
+    color: #fe0;
+    background-color: #333;
+}
+.hljs-keyword, .javascript .hljs-title, .nginx .hljs-title, .hljs-subst, .hljs-request, .hljs-status {
+    color: #ff4545;
+}
+
+.select-kit.combo-box.category-chooser .select-kit-row .category-desc {
+    color: #4b4b4b;
+}
+a:hover {
+    color: #c70000;
+}
+.badge-wrapper.bullet span.badge-category {
+    color: #00a64b;
+}
+select, textarea {
+    color: #fff;
+}
+.modal-inner-container {
+    background-color: #212121;
+}
+.user-preferences .static {
+    color: #fff;
+}
+.large-notification a span:first-child {
+    color: #ff0d0d;
+}
+.user-stream .notification p span:first-child {
+    color: #ff6e6a;
+}
+.stats-section li.linked-stat a {
+    color: #c1c1c1;
+}
+.composer-popup.education-message {
+    color: black;
+}
+.bootbox.modal {
+    background-color: #940000;
+}
+.composer-popup a.close {
+    color: #fff;
+}
+.poll-ui-builder-form .poll-textarea textarea {
+    background-color: black;
+}
+.select-kit .select-kit-row.is-selected.is-highlighted {
+    background: #327696;
+}
+.select-kit .select-kit-row.is-selected {
+    background: #afaf00;
+}
+.poll-ui-builder-form .poll-select {
+    margin-bottom: 8px;
+}
+div.poll li[data-poll-option-id] {
+    color: #fff;
+}
+.d-editor-preview .poll li[data-poll-option-id]:before {
+    border: 2px solid #a5a5a5;
+}
+.d-editor .d-editor-modal {
+    background-color: #3e3e3e;
+}
+/*21/06/19 - Menú Notificaciones*/
+.user-menu .notifications li {
+    background-color: #55879e;
+    text-shadow: 0 0 5px black;
+}
+.user-menu .notifications li:hover, .user-menu .notifications li:focus {
+    background-color: #a9a900;
+}
+.menu-panel li a:hover, .menu-panel li a:focus, .menu-panel li.heading a:hover, .menu-panel li.heading a:focus {
+    background-color: #a5a57b;
+}
+.user-menu .notifications li span:first-child {
+    color: #79ff9d;
+    text-shadow: 0 0 1px black;
+}
+.user-menu .notifications li:not(.show-all) .d-icon {
+    color: #ffb300;
+}
+div.menu-links-header .fa, div.menu-links-header a {
+    color: #ffffff;
+}
+}
