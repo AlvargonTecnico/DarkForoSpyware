@@ -223,4 +223,8 @@ div.poll li[data-poll-option-id] {
 div.menu-links-header .fa, div.menu-links-header a {
     color: #ffffff;
 }
+/**/
+.btn-flat {
+    background: #929292;
+}
 } /*Borrame si quitasd la primera linea ;)*/
